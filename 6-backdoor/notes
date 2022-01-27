@@ -6,5 +6,4 @@ code cave address: 0045C961
 00454ADC | BF 94000000              | mov edi,94                              | edi:EntryPoint
 00454AE1 | 8BC7                     | mov eax,edi                             | edi:EntryPoint
 
-
 6A 60 68 B0 7A 47 00
